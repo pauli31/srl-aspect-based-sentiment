@@ -43,7 +43,7 @@ If you use our software for academic research, please cite our [paper](https://a
 
 ```
 @inproceedings{priban-steinberger-2022-czech,
-    title = "{C}zech Dataset for Cross-lingual Subjectivity Classification",
+    title = "Improving Aspect-Based Sentiment with End-to-End Semantic Role Labeling Model",
     author = "P{\v{r}}ib{\'a}{\v{n}}, Pavel  and
       Pra{\v{z}}{\'a}k, Ond{\v{r}}ej",
     booktitle = "Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2023)",
