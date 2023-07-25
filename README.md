@@ -20,7 +20,7 @@ Create conda enviroment
 
 1) #### Clone github repository 
    ```
-   git clone git@github.com:pauli31/czech-subjectivity-dataset.git
+   git clone git@github.com:pauli31/srl-aspect-based-sentiment.git
    ```
 2) #### Setup conda
     
