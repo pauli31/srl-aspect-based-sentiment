@@ -34,8 +34,6 @@ License:
 The code can be freely used for academic and research purposes.
 It is strictly prohibited to use it for any commercial purpose.
 
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
 Publication:
 --------
 
