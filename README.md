@@ -37,7 +37,7 @@ It is strictly prohibited to use it for any commercial purpose.
 Publication:
 --------
 
-If you use our software for academic research, please cite our [paper](https://arxiv.org/TOBE ADDED)
+If you use our software for academic research, please cite our [paper](https://arxiv.org/abs/2307.14785)
 
 ```
 @inproceedings{priban-steinberger-2022-czech,
